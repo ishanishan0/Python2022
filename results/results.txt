@@ -1,0 +1,13 @@
+Total bytecount: 199035
+File list:
+-----------------
+.DS_Store
+testzip.zip
+learningPythonExerciseFiles
+README.md
+results
+textfile.txt.bak
+newfile.txt
+.gitignore
+.git
+archive.zip
